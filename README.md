@@ -1,2 +1,2 @@
 # Speak-Together
-منصة تفاعلية (موقع + تطبيق) تهدف إلى مساعدة الأطفال الذين يواجهون صعوبات في النطق والتواصل، وذلك من خلال أنشطة ممتعة وتدريبات عملية خطوة بخطوة. كما تقدم المنصة محتوى توعوي للأهالي والمعلمين لمساندة الأطفال بطريقة صحيحة وبنّاءة.
+“An interactive website and mobile app designed to help children with speech and communication difficulties. The platform provides simple content and practical exercises that support children in improving their speech and communication skills step by step.”
