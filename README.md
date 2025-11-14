@@ -26,6 +26,7 @@ Team Members:-
 Shahd Gaber (Team Leader)
 - Primary: Survey, Logo, Typography
 - Secondary: Dashboard, Home Screen, Chat Screen, GitHub
+  
 Raneem Ayman 
 - Primary: Persona, Colors
 - Secondary: Personas, Games Screen
@@ -49,8 +50,8 @@ Rahma Abdelkareem
 Instructor:-
 Dr. Eman Abdellatif
 
-ou can find the full project files here:
-📂 Google Drive Link (to be uploaded)
+you can find the full project files here:
+(https://www.figma.com/design/JHF68DOvPyF1kpAI4vvcbt/Speak-2-Gether?node-id=11-3&t=aFeKiVhU2whjoVk6-1)
 
 License:-
 This project is shared for educational and non-commercial purposes.
