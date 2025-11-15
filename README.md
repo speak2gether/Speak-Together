@@ -1,5 +1,6 @@
 # Speak-Together
 project Idea:-
+
 Speak 2 Gather is a digital platform that supports children with ADHD by helping families connect with specialized doctors and access structured guidance in a calm, organized way.
 The platform empowers parents to track their child’s progress, receive expert tips, explore helpful blogs, join events, and interact with a supportive community.
 
