@@ -1,8 +1,11 @@
 # Speak-Together
 project Idea:-
-- Speak 2 Gather is an educational awareness project that aims to design a virtual platform supporting children with autism through interactive activities, emotional expression, and continuous communication between specialists and parents.
-- The project focuses on enhancing the parent’s role in following their child’s progress and engaging in therapeutic exercises in a fun, calm, and supportive digital environment.
-- This initiative presents a visual and interactive model of inclusion-based learning, highlighting how technology can simplify communication, build emotional awareness, and improve therapy outcomes for children with autism.
+Speak 2 Gather is a digital platform that supports children with ADHD by helping families connect with specialized doctors and access structured guidance in a calm, organized way.
+The platform empowers parents to track their child’s progress, receive expert tips, explore helpful blogs, join events, and interact with a supportive community.
+
+It also includes a simple Kids Area with ADHD-friendly games that encourage emotional expression and focus-building activities.
+
+Through a combination of specialist support, parent tools, and child-centered activities, Speak 2 Gather creates a clear, warm, and reliable experience that helps families understand and support their children better.
 
 Work Plan:-
 -  Research & Analysis
