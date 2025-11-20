@@ -57,6 +57,9 @@ Dr. Eman Abdellatif
 you can find the full project files here:
 https://www.figma.com/design/JHF68DOvPyF1kpAI4vvcbt/Speak-2-Gether?node-id=11-3&t=aFeKiVhU2whjoVk6-1
 
+Fig Jam Link:
+https://www.figma.com/board/se9vvNFVn6i3R2dWXdry2l/Grad-project--Speak-Together-?node-id=0-1&p=f&t=vBDTBrBnX62LjpjA-0
+
 License:-
 This project is shared for educational and non-commercial purposes.
 You are free to view and reference the content, but redistribution or commercial use requires permission from the creators.
