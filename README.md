@@ -60,6 +60,8 @@ https://www.figma.com/design/JHF68DOvPyF1kpAI4vvcbt/Speak-2-Gether?node-id=11-3&
 Fig Jam Link:
 https://www.figma.com/board/se9vvNFVn6i3R2dWXdry2l/Grad-project--Speak-Together-?node-id=0-1&p=f&t=vBDTBrBnX62LjpjA-0
 
+Casestudy link: https://drive.google.com/drive/folders/11kA79ikP8vxeScOBxne8F79no7Dw5F8E?usp=sharing
+
 License:-
 This project is shared for educational and non-commercial purposes.
 You are free to view and reference the content, but redistribution or commercial use requires permission from the creators.
